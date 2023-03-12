@@ -1,2 +1,2 @@
 # Top-Movies
-top movies website using Flask, WTForms,SQLAlchemy, and requests
+top movies website using Python, Flask, WTForms,SQLAlchemy, and requests
